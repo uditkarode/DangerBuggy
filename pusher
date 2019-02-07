@@ -1,0 +1,5 @@
+#!/bin/bash
+git add sources/*
+git add headers/*
+git commit -m "${1}"
+git push

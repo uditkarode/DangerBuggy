@@ -1,0 +1,7 @@
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+..\.ucc\src.cpp:
+Turbo Link  Version 5.0 Copyright (c) 1992 Borland International
+Error: Undefined symbol RenderFactory::target in module ..\.ucc\src.cpp
+
+	Available memory 3974604
+	~ Built with UCC ~

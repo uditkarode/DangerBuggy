@@ -1,0 +1,9 @@
+DOSBox version 0.74-2
+Copyright 2002-2018 DOSBox Team, published under GNU GPL.
+---
+CONFIG:Loading primary settings from config file /Users/udit/Library/Preferences/DOSBox 0.74-2 Preferences
+Maximum memory size is 63 MB
+Memory sizes above 31 MB are NOT recommended.
+Stick with the default values unless you are absolutely certain.
+MIXER:No Sound Mode Selected.
+MIDI:Opened device:coreaudio

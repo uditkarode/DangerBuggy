@@ -1,0 +1,14 @@
+DOSBox version 0.74-2
+Copyright 2002-2018 DOSBox Team, published under GNU GPL.
+---
+CONFIG:Loading primary settings from config file /Users/udit/Library/Preferences/DOSBox 0.74-2 Preferences
+Your fullscreen resolution can NOT be determined, it's assumed to be 1024x768.
+Please edit the configuration file if this value is wrong.
+Could not initialize OpenGL, switching back to surface
+Maximum memory size is 63 MB
+Memory sizes above 31 MB are NOT recommended.
+Stick with the default values unless you are absolutely certain.
+MIXER:No Sound Mode Selected.
+MIDI:Opened device:coreaudio
+SHELL:Redirect output to ..\logs\TCC.LOG
+DOSBox switched to max cycles, because of the setting: cycles=auto. If the game runs too fast try a fixed cycles amount in DOSBox's options.
