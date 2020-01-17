@@ -1,4 +1,4 @@
-// @Author Udit Karode <www.uklabs.online>
+// @Author Udit Karode <uditkarode.github.io>
 
 #include <iostream.h>
 #include <graphics.h>
